@@ -2,4 +2,4 @@
 
 Este proyecto, simula un cotizador de seguros el cual muestra precios depende al modelo y nacionalidad del vehiculo usando prototypes.
 
-https://cotizacion-de-seguros.netlify.app/
+Preview: https://cotizador-de-seguros-js.vercel.app/
